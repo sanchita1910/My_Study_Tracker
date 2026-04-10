@@ -1,0 +1,39 @@
+[
+  { "id": 1, "title": "Two Sum", "difficulty": "Easy", "tags": ["Arrays", "Hash Map"], "description": "Find two numbers in an array that add up to a target value." },
+  { "id": 2, "title": "Best Time to Buy and Sell Stock", "difficulty": "Easy", "tags": ["Arrays", "Greedy"], "description": "Choose one buy day and one sell day to maximize profit from a single stock trade." },
+  { "id": 3, "title": "Contains Duplicate", "difficulty": "Easy", "tags": ["Arrays", "Hash Map"], "description": "Check whether any value appears more than once in the array." },
+  { "id": 4, "title": "Product of Array Except Self", "difficulty": "Medium", "tags": ["Arrays", "Prefix Sum"], "description": "Return an array where each position contains the product of all other elements except itself." },
+  { "id": 5, "title": "Maximum Subarray", "difficulty": "Medium", "tags": ["Arrays", "Dynamic Programming"], "description": "Find the contiguous subarray with the largest possible sum." },
+
+  { "id": 6, "title": "Climbing Stairs", "difficulty": "Easy", "tags": ["Dynamic Programming"], "description": "Count how many ways you can reach the top by taking one or two steps at a time." },
+  { "id": 7, "title": "House Robber", "difficulty": "Medium", "tags": ["Dynamic Programming"], "description": "Maximize stolen money without robbing two adjacent houses." },
+  { "id": 8, "title": "Coin Change", "difficulty": "Medium", "tags": ["Dynamic Programming"], "description": "Find the minimum number of coins needed to make a target amount." },
+  { "id": 9, "title": "Longest Increasing Subsequence", "difficulty": "Medium", "tags": ["Dynamic Programming"], "description": "Find the length of the longest subsequence where values strictly increase." },
+  { "id": 10, "title": "Word Break", "difficulty": "Medium", "tags": ["Dynamic Programming"], "description": "Determine whether a string can be split into valid dictionary words." },
+
+  { "id": 11, "title": "Valid Parentheses", "difficulty": "Easy", "tags": ["Stack"], "description": "Check whether brackets are properly opened and closed in the right order." },
+  { "id": 12, "title": "Min Stack", "difficulty": "Medium", "tags": ["Stack", "Design"], "description": "Design a stack that can return the minimum element in constant time." },
+  { "id": 13, "title": "Evaluate Reverse Polish Notation", "difficulty": "Medium", "tags": ["Stack"], "description": "Compute the result of an arithmetic expression written in postfix form." },
+
+  { "id": 14, "title": "Number of Islands", "difficulty": "Medium", "tags": ["Graphs", "DFS"], "description": "Count how many connected land regions appear in a 2D grid." },
+  { "id": 15, "title": "Clone Graph", "difficulty": "Medium", "tags": ["Graphs", "BFS"], "description": "Create a deep copy of a graph while preserving all node connections." },
+  { "id": 16, "title": "Course Schedule", "difficulty": "Medium", "tags": ["Graphs", "Topological Sort"], "description": "Determine whether all courses can be completed given prerequisite relations." },
+  { "id": 17, "title": "Pacific Atlantic Water Flow", "difficulty": "Medium", "tags": ["Graphs", "DFS"], "description": "Find cells in a height grid from which water can flow to both oceans." },
+
+  { "id": 18, "title": "Binary Tree Inorder Traversal", "difficulty": "Easy", "tags": ["Trees"], "description": "Visit a binary tree in left-root-right order and return the node values." },
+  { "id": 19, "title": "Maximum Depth of Binary Tree", "difficulty": "Easy", "tags": ["Trees"], "description": "Compute the longest path from the root of a binary tree to a leaf." },
+  { "id": 20, "title": "Same Tree", "difficulty": "Easy", "tags": ["Trees"], "description": "Check whether two binary trees have the same structure and values." },
+  { "id": 21, "title": "Invert Binary Tree", "difficulty": "Easy", "tags": ["Trees"], "description": "Mirror a binary tree by swapping the left and right children of every node." },
+  { "id": 22, "title": "Binary Tree Level Order Traversal", "difficulty": "Medium", "tags": ["Trees", "BFS"], "description": "Return the nodes of a binary tree level by level from top to bottom." },
+
+  { "id": 23, "title": "Valid Anagram", "difficulty": "Easy", "tags": ["Strings", "Hash Map"], "description": "Check whether two strings contain the same characters with the same counts." },
+  { "id": 24, "title": "Group Anagrams", "difficulty": "Medium", "tags": ["Strings", "Hash Map"], "description": "Group strings that can be rearranged to form each other." },
+  { "id": 25, "title": "Longest Substring Without Repeating Characters", "difficulty": "Medium", "tags": ["Strings", "Sliding Window"], "description": "Find the longest substring with no repeated characters." },
+  { "id": 26, "title": "Longest Palindromic Substring", "difficulty": "Medium", "tags": ["Strings"], "description": "Find the longest substring that reads the same forward and backward." },
+
+  { "id": 27, "title": "Merge Intervals", "difficulty": "Medium", "tags": ["Intervals"], "description": "Combine overlapping intervals into the smallest set of non-overlapping intervals." },
+  { "id": 28, "title": "Insert Interval", "difficulty": "Medium", "tags": ["Intervals"], "description": "Insert a new interval into a sorted list and merge overlaps." },
+
+  { "id": 29, "title": "Find Minimum in Rotated Sorted Array", "difficulty": "Medium", "tags": ["Binary Search"], "description": "Use binary search to find the smallest element in a rotated sorted array." },
+  { "id": 30, "title": "Search in Rotated Sorted Array", "difficulty": "Medium", "tags": ["Binary Search"], "description": "Find a target value in a rotated sorted array efficiently." }
+]
